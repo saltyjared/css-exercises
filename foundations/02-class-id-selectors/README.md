@@ -20,6 +20,8 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 
 
 ### Self Check
-- Do the odd numbered `p` elements share a class?
-- Do the even numbered `div` elements have unique IDs?
-- Does the Number 3 element have multiple classes?
+- Do the odd numbered `p` elements share a class? Yes, by giving the odd numbered p elements a class of "odd", I am able to style all of them together.
+- Do the even numbered `div` elements have unique IDs? Yes, each div was given a unique ID corresponding to their place on the document, allowing me to select them in the stylesheet with their ID selector.
+- Does the Number 3 element have multiple classes? No, Number 3 does not have multiple classes as I instead opted to give it an id of "third", allowing me to add additional styles to it only with its unique ID selector.
+
+# DONE ✔️
