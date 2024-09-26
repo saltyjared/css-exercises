@@ -17,8 +17,10 @@ The properties you need to add to each element are:
 
 
 ### Self Check
-- Did you use all three methods of adding CSS to an HTML file?
-- Did you properly link the external CSS file in the HTML file?
-- Does the `div` element have CSS added via the external method?
-- Does the `p` element have CSS added via the internal method?
-- Does the `button` element have CSS added via the inline method?
+- Did you use all three methods of adding CSS to an HTML file? Yes: external for div, internal for p, inline for button. 
+- Did you properly link the external CSS file in the HTML file? Yes, using the link element, with rel set to 'stylesheet' and href linking to 'styles.css'.
+- Does the `div` element have CSS added via the external method? Yes, the div element was styled using an external stylesheet, 'styles.css'.
+- Does the `p` element have CSS added via the internal method? Yes, the style element was included in the head element of 'index.html' with all the specified styles.
+- Does the `button` element have CSS added via the inline method? Yes, an inline style attribute was included in the opening tag of the button element containing all its styles.
+
+# DONE ✔️
