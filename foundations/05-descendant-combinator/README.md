@@ -14,5 +14,7 @@ The properties you need to add are:
 
 
 ### Self Check
-- Do the elements that contain the text "This should be styled" have the correct styles applied?
-- Do the elements that contain the text "This should be unstyled" have no styles applied?
+- Do the elements that contain the text "This should be styled" have the correct styles applied? Yes, they are styled due to having been selected using the child combinator (<), specifically only the child p elements of divs.
+- Do the elements that contain the text "This should be unstyled" have no styles applied? Yes, the second and third p elements remain unstyled since they are not a child of divs.
+
+# DONE ✔️
