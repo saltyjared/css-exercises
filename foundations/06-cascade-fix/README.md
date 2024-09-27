@@ -14,5 +14,7 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 ### Self Check
 
-- Did you make sure to not edit the HTML file?
-- If you added selectors to the CSS, do they target a valid HTML element?
+- Did you make sure to not edit the HTML file? Yes, no HTML elements were edited.
+- If you added selectors to the CSS, do they target a valid HTML element? Yes, the following changes made to the CSS were: adding chaining selectors to each of "para small-para" and "button confirm", as well as adding a descendant combinator to the bolded, child div.
+
+# DONE ✔️
