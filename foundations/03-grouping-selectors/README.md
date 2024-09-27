@@ -14,6 +14,8 @@ This will help you further practice adding classes and using class selectors, so
 
 ### Self Check
 
-- Does each element have a unique class name?
-- Did you use the grouping selector for styles that both elements share?
-- Did you make separate rules for the styles unique to each element?
+- Does each element have a unique class name? Yes, both buttons have a unique class names "left" and "right".
+- Did you use the grouping selector for styles that both elements share? Yes, the grouping selector was used to style both elements with common declarations (font size and family).
+- Did you make separate rules for the styles unique to each element? Yes, additional rules were made by selecting each class selector individually.
+
+# DONE ✔️
